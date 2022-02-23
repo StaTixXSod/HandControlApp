@@ -1,0 +1,8 @@
+venv
+test
+create_data
+data
+generated
+__pycache__
+.DS_Store
+.idea/

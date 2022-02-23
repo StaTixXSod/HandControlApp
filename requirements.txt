@@ -1,0 +1,7 @@
+numpy
+onnxruntime
+opencv-python
+mediapipe
+pyautogui
+pynput
+imutils
